@@ -1,0 +1,4 @@
+Sources:
+https://www.snip2code.com/Snippet/316671/Fourier-Extrapolation-in-Python
+Learning OpenCV 3 With Python(example code from chapter 8)
+https://tomroelandts.com/articles/how-to-create-a-simple-low-pass-filter
